@@ -1,0 +1,5 @@
+interface:
+  display_name: "Ponytail Audit"
+  short_description: "Whole-repo audit for over-engineering"
+policy:
+  allow_implicit_invocation: false
